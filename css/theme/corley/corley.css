@@ -322,3 +322,17 @@ table.spaces h3 {
   background-color: rgba(0, 0, 0, 0.5); color: #fff; padding: 20px;
 
 }
+
+
+/** REWRITE */
+
+.reveal section img {
+  border:none;
+  background: transparent;
+  box-shadow:none;
+}
+
+
+.reveal section h3.stroke {
+  text-decoration: line-through;
+}
